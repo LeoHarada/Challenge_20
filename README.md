@@ -1,5 +1,8 @@
 # Challenge_20
 
+## Objective
+Created a Solidity smart contract that accepts two user addresses for the purposes of automating and creating joint savings accounts. Using ether management functions to implement financial requirements in providing the features of the joint savings account. Features consist of the ability to deposit and withdraw funds from the account.
+
 ## Successfully deployed smart contract in JavaScript VM
 ![image](https://user-images.githubusercontent.com/86167421/141700303-2bc8c334-73a7-46ed-9f2c-aeb88dc55579.png)
 
